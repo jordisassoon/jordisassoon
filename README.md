@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A machine learning enthusiast, navigating the balance between science and product ☾
+#### A machine learning enthusiast, navigating the balance between science 🔬 and product 🪛 
 
 Computer Vision Researcher at [CEA](https://www.cea.fr/);<br>
 Research Engineer for [DAIY](https://daiy-project.github.io/daiy-landing-page/);<br>
