@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hello there 👋
+
+#### A machine learning enthusiast, navigating the balance between science and product ☾
+
+Computer Vision Researcher at [CEA](https://www.cea.fr/);<br>
+Research Engineer for [DAIY](https://daiy-project.github.io/daiy-landing-page/);<br>
+AI Student at [IP Paris]([https://laracon.eu?ref=github-caneco](https://www.ip-paris.fr/));<br>
+
+- ⚙️ Proficient in: `python`, `torch`, `tensorflow`, `docker`, and a few more OOP languages
+- 🧠 I'm currently working on **DAIY**, a soon to be open-source start-up project (stay tuned for April 2025!)
+- 🌍 Looking for a purposeful ML position, `ping` me for opportunities
 
 <!--
 **jordisassoon/jordisassoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
