@@ -2,7 +2,7 @@
 
 #### A machine learning enthusiast, navigating the balance between science 🔬 and product 🪛 
 
-(April 2025) Computer Vision Researcher at [CEA](https://www.cea.fr/)<br>
+Computer Vision Research Intern at [CEA](https://www.cea.fr/)<br>
 Research Engineer for [DAIY](https://daiy-project.github.io/daiy-landing-page/)<br>
 AI Master Student at [IP Paris](https://www.ip-paris.fr/)<br>
 
