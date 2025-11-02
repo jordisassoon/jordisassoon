@@ -2,13 +2,10 @@
 
 #### A machine learning enthusiast, navigating the balance between science 🔬 and product 🪛 
 
-Computer Vision Research Intern at [CEA](https://www.cea.fr/)<br>
-Research Engineer for [DAIY](https://daiy-project.github.io/daiy-landing-page/)<br>
-AI Master Student at [IP Paris](https://www.ip-paris.fr/)<br>
+Junior AI Software Engineer at [Aleph Alpha](https://aleph-alpha.com/)<br>
 
 - ⚙️ Proficient in: `python`, `torch`, `cuda`, `tensorflow`, `docker`, and a few more OOP languages
-- 🧠 I'm currently working on **DAIY**, a soon to be open-source start-up project (stay tuned for April 2025!)
-- 🌍 Looking for a purposeful ML position, send me a linkedin dm me for opportunities
+- 🧠 Foucsed on applying my ML knowledge to open-source projects and research, for the benefit of everyone
 
 <!--
 **jordisassoon/jordisassoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
