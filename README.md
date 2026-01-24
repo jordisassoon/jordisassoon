@@ -2,10 +2,10 @@
 
 #### A machine learning enthusiast, navigating the balance between science 🔬 and product 🪛 
 
-Junior AI Software Engineer at [Aleph Alpha](https://aleph-alpha.com/)<br>
+AI Software Engineer at [Aleph Alpha](https://aleph-alpha.com/)<br>
 
-- ⚙️ Proficient in: `python`, `torch`, `cuda`, `tensorflow`, `docker`, and a few more OOP languages
-- 🧠 Foucsed on applying my ML knowledge to open-source projects and research, for the benefit of everyone
+- ⚙️ Research areas: `Quantization`, `Semantic Segmentation`, `Temporal Action Localization`, `LLM Evaluations`
+- 🧠 Focused on applying my ML knowledge to open-source projects and research, for the benefit of everyone
 
 <!--
 **jordisassoon/jordisassoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
