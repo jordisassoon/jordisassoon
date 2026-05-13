@@ -1,6 +1,7 @@
-AI Software Engineer at [Aleph Alpha](https://aleph-alpha.com/)<br>
+Performance Engineer at [Aleph Alpha](https://aleph-alpha.com/)<br>
 
 - ⚙️ Area of work: `GPUs go brr`
+- 🧠 It's just one big array, and everything can be solved with maximal flow
 
 <!--
 **jordisassoon/jordisassoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
