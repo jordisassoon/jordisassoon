@@ -1,11 +1,6 @@
-### Hello there 👋
-
-#### A machine learning enthusiast, navigating the balance between science 🔬 and product 🪛 
-
 AI Software Engineer at [Aleph Alpha](https://aleph-alpha.com/)<br>
 
-- ⚙️ Research areas: `Quantization`, `Semantic Segmentation`, `Temporal Action Localization`, `LLM Evaluations`
-- 🧠 Focused on applying my ML knowledge to open-source projects and research, for the benefit of everyone
+- ⚙️ Area of work: `GPUs go brr`
 
 <!--
 **jordisassoon/jordisassoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
